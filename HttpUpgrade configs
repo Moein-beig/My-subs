@@ -1,5 +1,13 @@
-vless://536f916d-1727-478f-9631-f00e235dea9a@light.kinomino.lat:8443?type=httpupgrade&path=%2Fwww.iranserver.com%2Fkinomino.lat%3Fed%3D8443&host=&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#up1-e6h6mv92
-vless://c5175107-f240-4e7a-afa0-2fa958c69121@light.kinomino.lat:2095?type=httpupgrade&path=%2Fstatus.iranserver.com%2Fkinomino.lat%3Fed%3D2095&host=&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#up2-hd6xjywe
-vless://cda0bbc2-623c-46bb-91e0-a83b99182d11@light.kinomino.lat:8880?type=httpupgrade&path=%2Fcl.parspack.com%2Fkinomino.lat%3Fed%3D8880&host=&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#up3-1yyn71in
-vless://8e9c0f86-af50-4961-98f1-84fd422c23ab@light.kinomino.lat:2082?type=httpupgrade&path=%2Ftools.parspack.com%2Fkinomino.lat%3Fed%3D2082&host=&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#up4-lwtuzd3u
-vless://2eebddab-6c21-42f3-bccc-479ae5ab579d@light.kinomino.lat:2086?type=httpupgrade&path=%2Fdocs.parspack.com%2Fkinomino.lat%3Fed%3D2086&host=&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#up5-lab8lv3l
+//profile-title: base64:8J+UpSBXQVJQIPCflKU=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/hiddify
+//profile-web-page-url: https://hiddify.com
+warp://p1@162.159.192.248:859?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@162.159.192.115:859#warp in warp
+warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#WarpInWarp✅
+#warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
+#warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#Warp_10-20_40-100_30-50
+#warp://auto?ifp=10-20&ifps=40-100&ifpd=300-500#Warp_10-20_40-100_300-500
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp_5-10_40-100_10-20
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp_5-10_40-100_30-50
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500
