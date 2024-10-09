@@ -1,0 +1,5 @@
+vless://536f916d-1727-478f-9631-f00e235dea9a@light.kinomino.lat:8443?type=httpupgrade&path=%2Fwww.iranserver.com%2Fkinomino.lat%3Fed%3D8443&host=&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#up1-e6h6mv92
+vless://c5175107-f240-4e7a-afa0-2fa958c69121@light.kinomino.lat:2095?type=httpupgrade&path=%2Fstatus.iranserver.com%2Fkinomino.lat%3Fed%3D2095&host=&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#up2-hd6xjywe
+vless://cda0bbc2-623c-46bb-91e0-a83b99182d11@light.kinomino.lat:8880?type=httpupgrade&path=%2Fcl.parspack.com%2Fkinomino.lat%3Fed%3D8880&host=&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#up3-1yyn71in
+vless://8e9c0f86-af50-4961-98f1-84fd422c23ab@light.kinomino.lat:2082?type=httpupgrade&path=%2Ftools.parspack.com%2Fkinomino.lat%3Fed%3D2082&host=&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#up4-lwtuzd3u
+vless://2eebddab-6c21-42f3-bccc-479ae5ab579d@light.kinomino.lat:2086?type=httpupgrade&path=%2Fdocs.parspack.com%2Fkinomino.lat%3Fed%3D2086&host=&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#up5-lab8lv3l
